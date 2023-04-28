@@ -1,0 +1,105 @@
+commit 791d6eb62422a29b3fa156d3b0f03d3e894bbb75
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 13:44:33 2023 -0600
+
+    Agregando parrafos
+
+commit 91753ae0ce99dfceb67a54844bcfda639956675c
+Merge: fdd3053 1cebdf8
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 13:41:30 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit fdd305314e99a5a0a0b9734f53e302c2e337cb77
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:42:32 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1cebdf8e1c27ce54722226146aa32fc8d14829a1
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:42:32 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 3ef2bb080bf394fa5f25b3f78902dd454084a9da
+Merge: 9053c90 71c84c0
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:36:25 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 71c84c063c6ea90708bb5c86dd3ef68d89b1dd75
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:30:28 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 9053c904873caa1ba8be77886a053ff4dbb4bd8a
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:27:25 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 76f8deaec19e4db51402ef7dc197e261339d346b
+Merge: 9c13a93 df1a441
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:02:09 2023 -0600
+
+    Merge branch 'css'
+
+commit 9c13a93e1278d641fb6fc7c4c4bea98a7824866b
+Merge: 16f1fc6 0168fd2
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 12:02:02 2023 -0600
+
+    Merge branch 'js'
+
+commit 0168fd2e09fbde78899f8b94f3ee4d2f3a0e70f2
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 11:56:05 2023 -0600
+
+    Creando index.js
+
+commit df1a441dc4282bbf6f3ce139be3f135c9be083bc
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 11:51:52 2023 -0600
+
+    Creando style.css
+
+commit 16f1fc620d4479a1cf49f415bc6e0a81e1076e39
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 11:45:18 2023 -0600
+
+    Creando index.html
+
+commit 475e5bc7f2da568c1b12ff282e1f3e93e044e4a5
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 10:15:02 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 6eb0be7cc4a1aed3dc72799af9454ec6e84253b2
+Author: Mario <114353076+MarioEmx@users.noreply.github.com>
+Date:   Wed Apr 19 09:14:00 2023 -0600
+
+    Creando licencia del repositorio
+
+commit d82674f563f25cf910f0eab36cb1a7532252efc5
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Wed Apr 19 09:00:12 2023 -0600
+
+    Agregando mas contenido al readme
+
+commit fb13364873d2cd67a93d3eb4756cfb51e576397d
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Tue Apr 18 22:36:32 2023 -0600
+
+    Agregando contenido al README
+
+commit c3b3dd96510fd256d4c7cda56ac40c9a2c13712f
+Author: mario <mario.rm28cas@gmail.com>
+Date:   Tue Apr 18 22:31:19 2023 -0600
+
+    Primer commit
